@@ -1,7 +1,3 @@
-Aquí tienes un archivo README completo y detallado para tu proyecto:
-
----
-
 # Conversor de Divisas
 
 Un programa en Java que permite convertir entre diferentes divisas utilizando la **API de ExchangeRate**. Esta aplicación interactiva te ayuda a realizar conversiones rápidas y precisas, ideal para aprender sobre manejo de APIs, manipulación de datos JSON, y conceptos básicos de programación en Java.
